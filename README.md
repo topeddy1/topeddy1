@@ -4,7 +4,7 @@
 영남대학교 컴퓨터공학과에 2학년으로 재학중인 개발자 지망생 **오기준**입니다.
 
 ## Oh Ki-jun (오기준)
-#### 🎓 Sophomore @ Yeungnam Univ. Computer Science & Engineering
+## 🎓 Sophomore @ Yeungnam Univ. Computer Science & Engineering
 
 ### ✏️Learning
 - **Languages** : Python, Html, Git & GitHub, C++
