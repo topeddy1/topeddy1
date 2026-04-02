@@ -5,7 +5,7 @@
 
 **Sophomore @ Yeungnam Univ. Computer Science & Engineering**
 
-### ✏️Learning & Skills
+### ✏️Learning
 - **Languages** : Python, Html, Git & GitHub, C++
 - **Current Focus** : 다양한 언어를 탐구하며 저만의 개발 진로를 설계하고 있습니다. 🚀
 
