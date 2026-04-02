@@ -7,7 +7,7 @@
 **Computer Science & Engineering**
 
 ### ✏️Learning
-- **Languages** : Python, HTML, C++
+- **Languages** : Python, C++, HTML
 - **Tools** : Git & GitHub
 - **Current Focus** : 다양한 언어를 공부하면서 저만의 개발 진로를 설계하고 있습니다. 🚀
 
