@@ -1,18 +1,12 @@
-## Hi there 👋
+# Hello world 🙌
 
-ㅎㅇ
+### 안녕하세요!
+영남대학교 컴퓨터공학과에 2학년으로 재학중인 개발자 지망생 **오기준**입니다.
 
-<!--
-**topeddy1/topeddy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Learning & Skills
+✏️학습 중인 기술:Python, Html, Git & GitHub, C++
+💻아직 진로를 정하지는 않았지만 프로그래밍언어를 공부해가면서 진로를 선택할 생각입니다!
 
-Here are some ideas to get you started:
+### 연락처 및 링크
+Email: hyo09010@yu.ac.kr
 
-- 🔭 I’m currently working on ... 컴퓨터
-- 🌱 I’m currently learning ... 컴퓨터공학
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
