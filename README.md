@@ -6,9 +6,9 @@
 **Sophomore @ Yeungnam Univ. Computer Science & Engineering**
 
 ### ✏️Learning & Skills
-- **Languages** :Python, Html, Git & GitHub, C++
-- **Current Focus:** 다양한 언어를 탐구하며 저만의 개발 진로를 설계하고 있습니다. 🚀
+- **Languages** : Python, Html, Git & GitHub, C++
+- **Current Focus** : 다양한 언어를 탐구하며 저만의 개발 진로를 설계하고 있습니다. 🚀
 
-### 연락처 및 링크
+### 연락처
 Email: hyo09010@yu.ac.kr
 
